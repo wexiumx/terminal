@@ -1,3 +1,7 @@
+> [!WARNING]
+> this repo was moved to codeberg
+
+
 ## Overview
 
 A minimal, keyboard-driven terminal setup built around **Ghostty** and the **Catppuccin** color theme. Everything is tuned for speed and aesthetics.
